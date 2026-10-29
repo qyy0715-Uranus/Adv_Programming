@@ -1,0 +1,6 @@
+/simpleCalculator
+*.dSYM/
+/build/
+*.o
+.DS_Store
+.vscode/
